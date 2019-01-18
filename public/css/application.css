@@ -1,3 +1,28 @@
 body{
-  background-color: #FAF9F9;
+  background-color: #abcec8;
+
 }
+
+.jumbotron {
+  margin-top: 5em;
+  background-color: #FAF9F9;
+  border: solid 2px #BEE3BD;
+  color: #6E5564;
+}
+
+.navbar{
+  border: solid 3px #4c80e8;
+  color: #0b6360;
+  background-color: #d879c8;
+}
+
+h2{
+  font: bold;
+  font-family: 'Coiny', cursive;
+}
+
+h4{
+  font: bold;
+  font-family: 'Cookie', cursive;
+}
+
