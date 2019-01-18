@@ -26,3 +26,7 @@ h4{
   font-family: 'Cookie', cursive;
 }
 
+.hidden {
+  display: none;
+}
+
